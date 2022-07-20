@@ -35,7 +35,7 @@ Style/NumericLiterals:
   Enabled: false
 
 Style/StringLiterals:
-  EnforcedStyle: double_quotes
+  EnforcedStyle: single_quotes
 
 Style/TrailingCommaInArrayLiteral:
   EnforcedStyleForMultiline: 'comma'
